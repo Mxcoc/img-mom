@@ -1,0 +1,25 @@
+name = "tgbot-img"
+compatibility_date = "2024-11-01"
+
+account_id = "d0fbd05403994fb07d846f7358bd83b2"
+
+[vars]
+TG_BOT_TOKEN = "7681859869:AAFsUd5kYekGPk85M2ABk6tZ5-1c4Yi0dYQ"
+TG_WEBHOOK_SECRET_TOKEN = ""
+TG_BOT_OWNER_USERNAME = "Mxcoc"
+TG_BOT_ALLOW_ANYONE = ""
+
+R2_CUSTOM_DOMAIN = "img.cattk.com"
+B2_KEY_ID = ""
+B2_SECRET_KEY = ""
+B2_ENDPOINT = ""
+B2_BUCKET = ""
+B2_CUSTOM_DOMAIN = ""
+
+[[kv_namespaces]]
+binding = "KV_IMG_MOM"
+id = "6e7204c5ccb64f86adf9822622ab2aad"
+
+[[r2_buckets]]
+binding = "R2_IMG_MOM"
+bucket_name = "image"
