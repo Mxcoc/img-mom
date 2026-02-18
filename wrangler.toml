@@ -1,5 +1,6 @@
 name = "img-mom"
-compatibility_date = "2024-08-10"
+main = "src/index.ts"
+compatibility_date = "2026-02-18"
 
 account_id = ""
 
